@@ -1,0 +1,14 @@
+
+### JAVA ###
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!/src/main//target/
+!/src/test//target/
+
+###Intellij idea ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+/desktop.ini
